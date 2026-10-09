@@ -1,1 +1,1 @@
-https://github.com/lizzkka00/git-practice.git
+Практическая работа №2 удаленный репозиторий и ветки Git
